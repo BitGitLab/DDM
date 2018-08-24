@@ -1,0 +1,165 @@
+<BuggyProgram,
+User (0) generated 610, presented 610, and recorded 246
+User (1) generated 769, presented 769, and recorded 769
+User (2) generated 610, presented 610, and recorded 610<BuggyProgram,
+User (0) generated 79, presented 79, and recorded 79
+User (1) generated 79, presented 79, and recorded 79
+User (2) generated 79, presented 79, and recorded 79, 
+None>
+<BuggyProgram,
+User (0) generated 515, presented 515, and recorded 515
+User (1) generated 515, presented 515, and recorded 515
+User (2) generated 515, presented 515, and recorded 515, 
+None>
+<BuggyProgram,
+User (0) generated 787, presented 787, and recorded 787
+User (1) generated 787, presented 787, and recorded 787
+User (2) generated 787, presented 787, and recorded 787, 
+None>
+<BuggyProgram,
+User (0) generated 342, presented 342, and recorded 342
+User (1) generated 342, presented 342, and recorded 342
+User (2) generated 342, presented 342, and recorded 342, 
+None>
+<BuggyProgram,
+User (0) generated 873, presented 873, and recorded 873
+User (1) generated 873, presented 873, and recorded 873
+User (2) generated 873, presented 873, and recorded 873, 
+None>
+<BuggyProgram,
+User (0) generated 397, presented 397, and recorded 397
+User (1) generated 397, presented 397, and recorded 397
+User (2) generated 397, presented 397, and recorded 397, 
+None>
+<BuggyProgram,
+User (0) generated 930, presented 930, and recorded 930
+User (1) generated 930, presented 930, and recorded 930
+User (2) generated 930, presented 930, and recorded 930, 
+None>
+<BuggyProgram,
+User (0) generated 361, presented 489, and recorded 489
+User (1) generated 489, presented 489, and recorded 489
+User (2) generated 489, presented 489, and recorded 489<BuggyProgram,
+User (0) generated 789, presented 789, and recorded 789
+User (1) generated 789, presented 789, and recorded 789
+User (2) generated 789, presented 789, and recorded 789, 
+None>
+<BuggyProgram,
+User (0) generated 454, presented 454, and recorded 454
+User (1) generated 454, presented 454, and recorded 454
+User (2) generated 454, presented 454, and recorded 454, 
+None>
+<BuggyProgram,
+User (0) generated 484, presented 484, and recorded 484
+User (1) generated 484, presented 484, and recorded 484
+User (2) generated 484, presented 484, and recorded 484, 
+None>
+<BuggyProgram,
+User (0) generated 382, presented 382, and recorded 382
+User (1) generated 382, presented 382, and recorded 382
+User (2) generated 382, presented 382, and recorded 382, 
+None>
+<BuggyProgram,
+User (0) generated 918, presented 543, and recorded 543
+User (1) generated 918, presented 543, and recorded 543
+User (2) generated 543, presented 543, and recorded 543<BuggyProgram,
+User (0) generated 226, presented 226, and recorded 226
+User (1) generated 226, presented 226, and recorded 226
+User (2) generated 226, presented 226, and recorded 226, 
+None>
+<BuggyProgram,
+User (0) generated 996, presented 996, and recorded 996
+User (1) generated 996, presented 996, and recorded 996
+User (2) generated 996, presented 996, and recorded 996, 
+None>
+<BuggyProgram,
+User (0) generated 49, presented 49, and recorded 49
+User (1) generated 49, presented 49, and recorded 49
+User (2) generated 49, presented 49, and recorded 49, 
+None>
+<BuggyProgram,
+User (0) generated 836, presented 461, and recorded 461
+User (1) generated 461, presented 461, and recorded 461
+User (2) generated 461, presented 461, and recorded 461<BuggyProgram,
+User (0) generated 492, presented 492, and recorded 492
+User (1) generated 492, presented 492, and recorded 492
+User (2) generated 492, presented 492, and recorded 492, 
+None>
+<BuggyProgram,
+User (0) generated 707, presented 707, and recorded 707
+User (1) generated 808, presented 808, and recorded 808
+User (2) generated 707, presented 707, and recorded 707, 
+None>
+<BuggyProgram,
+User (0) generated 986, presented 986, and recorded 986
+User (1) generated 986, presented 986, and recorded 986
+User (2) generated 986, presented 986, and recorded 986, 
+None>
+<BuggyProgram,
+User (0) generated 550, presented 550, and recorded 550
+User (1) generated 158, presented 158, and recorded 158
+User (2) generated 158, presented 550, and recorded 550<BuggyProgram,
+User (0) generated 466, presented 466, and recorded 466
+User (1) generated 466, presented 466, and recorded 466
+User (2) generated 466, presented 466, and recorded 466, 
+None>
+<BuggyProgram,
+User (0) generated 376, presented 376, and recorded 376
+User (1) generated 135, presented 135, and recorded 135
+User (2) generated 135, presented 376, and recorded 376<BuggyProgram,
+User (0) generated 329, presented 329, and recorded 329
+User (1) generated 329, presented 329, and recorded 329
+User (2) generated 329, presented 329, and recorded 329, 
+None>
+<BuggyProgram,
+User (0) generated 109, presented 109, and recorded 109
+User (1) generated 990, presented 990, and recorded 990
+User (2) generated 109, presented 109, and recorded 109, 
+None>
+<BuggyProgram,
+User (0) generated 3, presented 3, and recorded 3
+User (1) generated 3, presented 3, and recorded 3
+User (2) generated 3, presented 3, and recorded 3, 
+None>
+<BuggyProgram,
+User (0) generated 72, presented 72, and recorded 72
+User (1) generated 694, presented 694, and recorded 694
+User (2) generated 817, presented 694, and recorded 694<BuggyProgram,
+User (0) generated 961, presented 961, and recorded 961
+User (1) generated 961, presented 961, and recorded 961
+User (2) generated 961, presented 961, and recorded 961, 
+None>
+<BuggyProgram,
+User (0) generated 269, presented 397, and recorded 397
+User (1) generated 397, presented 397, and recorded 397
+User (2) generated 390, presented 390, and recorded 390<BuggyProgram,
+User (0) generated 167, presented 167, and recorded 167
+User (1) generated 167, presented 167, and recorded 167
+User (2) generated 167, presented 167, and recorded 167, 
+None>
+<BuggyProgram,
+User (0) generated 224, presented 224, and recorded 224
+User (1) generated 224, presented 224, and recorded 224
+User (2) generated 32, presented 32, and recorded 32, 
+None>
+<BuggyProgram,
+User (0) generated 847, presented 847, and recorded 847
+User (1) generated 847, presented 847, and recorded 847
+User (2) generated 847, presented 847, and recorded 847, 
+None>
+<BuggyProgram,
+User (0) generated 52, presented 52, and recorded 52
+User (1) generated 512, presented 512, and recorded 512
+User (2) generated 512, presented 52, and recorded 52<BuggyProgram,
+User (0) generated 173, presented 173, and recorded 173
+User (1) generated 173, presented 173, and recorded 173
+User (2) generated 173, presented 173, and recorded 173, 
+None>
+<BuggyProgram,
+User (0) generated 622, presented 622, and recorded 622
+User (1) generated 591, presented 591, and recorded 591
+User (2) generated 591, presented 622, and recorded 622<BuggyProgram,
+User (0) generated 250, presented 250, and recorded 250
+User (1) generated 250, presented 250, and recorded 250
+User (2) generated 250, presented 250, and recorded 250, 
+None>
